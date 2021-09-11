@@ -1,0 +1,1 @@
+CPPFLAGS = -Wall -std=gnu++11 -g
